@@ -1,6 +1,6 @@
 package com.example.demo.test;
 
-import com.example.demo.domain.response.Message;
+import com.example.demo.domain.deepseek.response.Message;
 import com.example.demo.utils.DeepSeekTalk;
 
 public class DeepSeekTalkTest {

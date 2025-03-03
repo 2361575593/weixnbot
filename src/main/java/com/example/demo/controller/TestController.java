@@ -1,9 +1,9 @@
 package com.example.demo.controller;
 
-import com.example.demo.domain.response.Message;
-import com.example.demo.domain.reuqest.FormData;
-import com.example.demo.domain.reuqest.Source;
-import com.example.demo.domain.wexin.Response;
+import com.example.demo.domain.deepseek.response.Message;
+import com.example.demo.domain.wexin.request.FormData;
+import com.example.demo.domain.wexin.request.Source;
+import com.example.demo.domain.wexin.response.Response;
 import com.example.demo.utils.DeepSeekTalk;
 import io.micrometer.common.util.StringUtils;
 import org.springframework.stereotype.Controller;

@@ -1,4 +1,4 @@
-package com.example.demo.domain.wexin;
+package com.example.demo.domain.wexin.response;
 
 import lombok.Data;
 

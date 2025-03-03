@@ -1,4 +1,4 @@
-package com.example.demo.domain.reuqest;
+package com.example.demo.domain.deepseek.reuqest;
 
 public class Message {
     private String content;

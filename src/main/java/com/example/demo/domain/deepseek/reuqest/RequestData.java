@@ -1,4 +1,4 @@
-package com.example.demo.domain.reuqest;
+package com.example.demo.domain.deepseek.reuqest;
 
 import java.util.List;
 

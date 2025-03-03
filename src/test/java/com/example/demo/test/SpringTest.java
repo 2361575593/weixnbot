@@ -1,8 +1,8 @@
 package com.example.demo.test;
 
 import com.example.demo.controller.TestController;
-import com.example.demo.domain.reuqest.FormData;
-import com.example.demo.domain.wexin.Response;
+import com.example.demo.domain.wexin.request.FormData;
+import com.example.demo.domain.wexin.response.Response;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

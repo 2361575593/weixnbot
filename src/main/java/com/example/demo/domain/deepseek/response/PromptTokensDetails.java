@@ -1,4 +1,4 @@
-package com.example.demo.domain.response;
+package com.example.demo.domain.deepseek.response;
 
 public class PromptTokensDetails {
     private int cached_tokens;

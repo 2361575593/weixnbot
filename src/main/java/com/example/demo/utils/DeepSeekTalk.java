@@ -1,7 +1,7 @@
 package com.example.demo.utils;
 
-import com.example.demo.domain.response.Message;
-import com.example.demo.domain.response.ResponseData;
+import com.example.demo.domain.deepseek.response.Message;
+import com.example.demo.domain.deepseek.response.ResponseData;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import okhttp3.*;
 

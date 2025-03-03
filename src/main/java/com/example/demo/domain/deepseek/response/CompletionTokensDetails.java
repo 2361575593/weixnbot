@@ -1,4 +1,4 @@
-package com.example.demo.domain.response;
+package com.example.demo.domain.deepseek.response;
 
 public class CompletionTokensDetails {
     private int reasoning_tokens;  // 新增字段 reasoning_tokens
